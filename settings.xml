@@ -5,5 +5,10 @@
       <username>admin</username>
       <password>admin123</password>
     </server>
+    <server>
+        <id>tomcat</id>
+    <username>tomcat</username>
+    <password>tomcat</password>
+    </server>
 </servers>
 </settings>
