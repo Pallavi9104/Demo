@@ -6,9 +6,9 @@
       <password>admin123</password>
     </server>
     <server>
-        <id>tomcat</id>
-        <username>tomcat1</username>
-        <password>tomcat1</password>
+        <id>TomcatServer</id>
+        <username>tomcat2</username>
+        <password>tomcat2</password>
     </server>
 </servers>
 </settings>
