@@ -17,7 +17,7 @@
 
 
 <body>
-	<h2>Employees in QA</h2>	
+	<h2>Employees in qa</h2>	
 	<img src="">
 	<table>
 		<tr>
